@@ -1,6 +1,5 @@
 # Hello-World
 [https://gowebexamples.com/hello-world/](https://gowebexamples.com/hello-world/)
-Simple web response
 
 # How to run
 Run without building
